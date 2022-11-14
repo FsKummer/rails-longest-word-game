@@ -13,3 +13,24 @@
  *= require_tree .
  *= require_self
  */
+a {
+  padding: 16px;
+  background-color: rgb(165, 159, 232);
+  margin: 8px;
+  border-radius: 5px;
+  box-shadow: 2px -1px 2px -1px black;
+}
+
+h1 {
+  margin: 16px;
+}
+
+input {
+  margin-top: 24px;
+}
+
+.try {
+  padding: 2px;
+  background-color: #22cbe9;
+  border-radius: 5px;
+}
